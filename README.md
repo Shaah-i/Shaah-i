@@ -58,8 +58,10 @@ Data Analyst | Machine Learning | Machine Design
 
 ### :fire: My Stats :
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shaah-i&show_icons=true&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=Shaah-i&theme=vue)](https://https://github.com/Shaah-i/github-profile-trophy)
 
+[![T2](https://github-trophies.vercel.app/?username=Shaah-i)](https://https://github.com/Shaah-i/github-profile-trophy)
+ -->
 ![Shubham Shaah's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaah-i&theme=vue)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaah-i&show_icons=true&theme=vue)
