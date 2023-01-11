@@ -47,7 +47,6 @@ Data Analyst | Machine Learning | Machine Design
   <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" title="Sklearn" alt="Sklearn" width="60" height="60"/></a>&nbsp;
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" title="Flask" alt="Flask" width="60" height="60"/></a>&nbsp;
   <a href="https://docs.streamlit.io/" target="_blank"><img src="https://docs.streamlit.io/logo.svg" title="Streamlit" alt="https://streamlit.io/" width="60" height="60"/></a>&nbsp;
-  <a href="https://www.heroku.com/home" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="60" height="60"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/></a>&nbsp;
