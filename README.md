@@ -21,7 +21,7 @@ Data Analyst | Machine Learning | Machine Design
 - 👀 I’m interested in origami, photography, marketing strategies.
 - 💬 Ask me about Design Thinking, Entrepreneurship, Analytics, Marketing Strategies.
 - ⚡ Fun fact I'm also a Mechanical Engineer.
-- 📌 Website : 🌩 comming soon
+- 📌 Website : [Shubham Shaah Portfolio](https://shubhamshaah.wixsite.com/myportfolio)
 
 <h3 align="left">
   Connect with me :
